@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/img/pexels-stein-egil-liland-1933317.jpg') no-repeat;
+    background: url('img/pexels-stein-egil-liland-1933317.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
